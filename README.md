@@ -32,7 +32,6 @@ Atualmente, estou em busca de oportunidades nas seguintes áreas:
 Estou totalmente disponível para novos desafios, conhecimentos e oportunidades. Estou apto para ingresso imediato e disponível desenvolver novas habilidades.
 
 <br>
-🔗 LinkedIn
 <a href="https://www.linkedin.com/in/alexmiqueias/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn de Alex Miqueias" style="width:48px;height:48px;">
 </a>
