@@ -1,8 +1,9 @@
 # Olá, Mundo! 👋 Eu sou Alex!
 
-## 💡 Sobre Mim
+![Designer (3)](https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136)
 
-Olá, Mundo!
+
+## 💡 Sobre Mim
 
 Sou Alex Miquéias, entusiasta em Engenharia de Dados, atualmente cursando Big Data e Inteligência Analítica na Uniasselvi. Tenho uma paixão por resolver problemas complexos com soluções baseadas em dados, e minha missão é transformar dados em insights que impulsionem a inovação.
 
