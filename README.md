@@ -46,10 +46,11 @@ Sou Alex Miquéias, entusiasta em Engenharia de Dados, atualmente cursando Big D
 # #🚀 O que estou buscando
 Estou à procura de oportunidades de estágio ou efetivas na área de Engenharia de Dados, com foco em:
 
-Pipelines de Dados
-ETL/ELT
-Armazenamento de Dados em Nuvem (AWS)
-Análise e Processamento de Dados em Grande Escala
+- Pipelines de Dados
+- ETL/ELT
+- Armazenamento de Dados em Nuvem (AWS)
+- Análise e Processamento de Dados em Grande Escala
+- Entre outras na área de dados...
 
 ## 📫 Entre em contato!
 Estou totalmente disponível para novos desafios, conhecimentos e oportunidades. Estou apto para ingresso imediato e disponível desenvolver novas habilidades.
