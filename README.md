@@ -1,38 +1,55 @@
 # Olá, Mundo! 👋 Eu sou Alex!
 
-## 👨‍💻 Sobre mim
+## 💡 Sobre Mim
 
 Olá, Mundo!
 
-Sou Alex, um aspirante a Engenheiro de Dados em formação, atualmente residente em Recife/PE. Estou cursando o Tecnólogo em Big Data e Inteligência Analítica na UNIASSELVI, modalidade EAD.
+Sou Alex Miquéias, entusiasta em Engenharia de Dados, atualmente cursando Big Data e Inteligência Analítica na Uniasselvi. Tenho uma paixão por resolver problemas complexos com soluções baseadas em dados, e minha missão é transformar dados em insights que impulsionem a inovação.
 
-Minhas principais stacks incluem Java, Python, Linux, PL/SQL, PostgreSQL, MongoDB, Docker, AWS, BI, Spark, Pandas, Apache Airflow, Terraform, entre outras.
+📍 Localização: Recife, PE
+🎓 Formação: Tecnólogo em Big Data e Inteligência Analítica (2024 - 2027)
+💼 Atuação atual: Técnico de Informática na UPA Caxangá – Escritor Paulo Cavalcanti
 
-Estou em busca de oportunidades para estágio ou vagas efetivas CLT na área de dados, disponíveis em modelos presenciais, remotos ou híbridos. Minha pretensão salarial para um cargo CLT ou estágio/trainee varia entre R$ 1.400 e R$ 2.500, com flexibilidade para negociações.
+## 🚀 **Habilidades Técnicas**
 
-Atualmente, trabalho na UPA Caxangá – Escritor Paulo Cavalcanti, onde lidero a gestão do sistema de TI, garantindo a conformidade, disponibilidade e segurança dos dados e da infraestrutura ao lado da minha equipe.
+### **Linguagens de Programação:**
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python** 🐍
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java** ☕
+- ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white) **R** 📊
 
-Me considero uma pessoa proativa, flexível, autodidata e motivada por desafios. Estou pronto para contribuir e crescer na área de dados!
+### **Big Data e Engenharia de Dados:**
+- ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) **PySpark** 🔥
+- ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) **Pandas** 🐼
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL** 🐘
+- ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white) **MySQL** 🛢️
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB** 🍃
+- ![Meltano](https://img.shields.io/badge/Meltano-%23009EDC?style=for-the-badge&logo=sequel-ace&logoColor=white) **Meltano** 🛠️
+- ![Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) **Spark** ⚡
 
-## 🚀 Habilidades
-- Java ☕
-- Spring Boot 🌱
-- PL/SQL 📊
-- MySQL 🛢️
-- Python 🐍
-- AWS ☁️
-- Docker 🐳
-- Jenkins 🛠️
-- Power BI 📊
-- DevOps 🔧
-- Data Analytics 📈
-  
-## 🎯 Objetivos
-Atualmente, estou em busca de oportunidades nas seguintes áreas:
-- Back-end
-- DevOps
-- engenharia de dados
-- ciencia de dados
+### **Ferramentas e Tecnologias:**
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) **AWS** ☁️
+- ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) **Docker** 🐳
+- ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4?style=for-the-badge&logo=terraform&logoColor=white) **Terraform** 🌍
+- ![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) **Airflow** 🌬️
+- ![Vagrant](https://img.shields.io/badge/Vagrant-%23006492?style=for-the-badge&logo=vagrant&logoColor=white) **Vagrant** 📦
+- ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white) **Ansible** ⚙️
+- ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white) **Jenkins** 🛠️
+- ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white) **Databricks** 🧱
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI** 📊
+
+### **Metodologias Ágeis:**
+- **Scrum** 🏉
+- **Kanban** 🗂️
+- **XP (Extreme Programming)** 💻
+- **Lean** 🧠
+
+# #🚀 O que estou buscando
+Estou à procura de oportunidades de estágio ou efetivas na área de Engenharia de Dados, com foco em:
+
+Pipelines de Dados
+ETL/ELT
+Armazenamento de Dados em Nuvem (AWS)
+Análise e Processamento de Dados em Grande Escala
 
 ## 📫 Entre em contato!
 Estou totalmente disponível para novos desafios, conhecimentos e oportunidades. Estou apto para ingresso imediato e disponível desenvolver novas habilidades.
