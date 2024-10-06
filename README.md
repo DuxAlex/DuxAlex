@@ -1,7 +1,8 @@
 # Olá, Mundo! 👋 Eu sou Alex!
 
-<img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400"/>
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400"/>
+</div>
 
 ## 💡 Sobre Mim
 
