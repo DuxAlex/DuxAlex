@@ -10,7 +10,7 @@ Sou Alex Miquéias, entusiasta em Engenharia de Dados, atualmente cursando Big D
 
 📍 Localização: Recife, PE
 🎓 Formação: Tecnólogo em Big Data e Inteligência Analítica (2024 - 2027)
-💼 Atuação atual: Técnico de Informática na UPA Caxangá – Escritor Paulo Cavalcanti
+💼 Atuação atual: Data Engineer jr
 
 ## 🚀 **Habilidades Técnicas**
 
@@ -33,9 +33,6 @@ Sou Alex Miquéias, entusiasta em Engenharia de Dados, atualmente cursando Big D
 - ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) **Docker** 🐳
 - ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4?style=for-the-badge&logo=terraform&logoColor=white) **Terraform** 🌍
 - ![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) **Airflow** 🌬️
-- ![Vagrant](https://img.shields.io/badge/Vagrant-%23006492?style=for-the-badge&logo=vagrant&logoColor=white) **Vagrant** 📦
-- ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white) **Ansible** ⚙️
-- ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white) **Jenkins** 🛠️
 - ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white) **Databricks** 🧱
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI** 📊
 
