@@ -4,52 +4,82 @@
   <img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400"/>
 </div>
 
-## 💡 Sobre Mim
+# 👨‍💻 Sobre Mim  
+🚀 Sou **Engenheiro de Dados** apaixonado por tecnologia e inovação, com experiência em:  
+✨ Construção e automação de pipelines de dados  
+🌐 Governança de infraestrutura de dados  
+📈 Processamento de grandes volumes de informações  
 
-Sou Alex Miquéias, entusiasta em Engenharia de Dados, atualmente cursando Big Data e Inteligência Analítica na Uniasselvi. Tenho uma paixão por resolver problemas complexos com soluções baseadas em dados, e minha missão é transformar dados em insights que impulsionem a inovação.
+💡 Acredito no poder dos dados para transformar negócios e impulsionar mudanças positivas no mundo!
 
-📍 Localização: Recife, PE
-🎓 Formação: Tecnólogo em Big Data e Inteligência Analítica (2024 - 2027)
-💼 Atuação atual: Data Engineer jr
+---
 
-## 🚀 **Habilidades Técnicas**
+## 🛠️ Tecnologias e Habilidades  
+### 📊 **Hard Skills**  
+- 🐍 **Linguagens**: Python, SQL, PySpark  
+- 🛠️ **Ferramentas & Tecnologias**: Pandas, Airflow, Databricks, Docker, Terraform, Power BI, DBT  
+- ☁️ **Cloud**: AWS, Azure, Snowflake  
+- 🗄️ **Banco de Dados**: PostgreSQL, Oracle  
+- 🐧 **Sistemas Operacionais**: Linux  
 
-### **Linguagens de Programação:**
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python** 🐍
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java** ☕
-- ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white) **R** 📊
+### 🌟 **Soft Skills**  
+- 🤝 Proatividade e Resiliência  
+- 🗣️ Comunicação e Inteligência Emocional  
+- 🧠 Pensamento Analítico e Trabalho em Equipe  
+- 📋 Metodologias Ágeis (Scrum, Kanban, XP, Lean)  
 
-### **Big Data e Engenharia de Dados:**
-- ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) **PySpark** 🔥
-- ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) **Pandas** 🐼
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL** 🐘
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white) **MySQL** 🛢️
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB** 🍃
-- ![Meltano](https://img.shields.io/badge/Meltano-%23009EDC?style=for-the-badge&logo=sequel-ace&logoColor=white) **Meltano** 🛠️
-- ![Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) **Spark** ⚡
+---
 
-### **Ferramentas e Tecnologias:**
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) **AWS** ☁️
-- ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) **Docker** 🐳
-- ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4?style=for-the-badge&logo=terraform&logoColor=white) **Terraform** 🌍
-- ![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) **Airflow** 🌬️
-- ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white) **Databricks** 🧱
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI** 📊
+## 🎓 Formação Acadêmica  
+- 🎓 **Big Data e Inteligência Analítica** – Uniasselvi (08/2024 – 02/2027)
 
-### **Metodologias Ágeis:**
-- **Scrum** 🏉
-- **Kanban** 🗂️
-- **XP (Extreme Programming)** 💻
-- **Lean** 🧠
+---
 
-# #🚀 O que estou buscando
-Estou à procura de oportunidades de estágio ou efetivas na área de Engenharia de Dados, com foco em:
+## 🏆 Certificações  
+- 📜 **Formação em Engenharia de Analytics** – Indicium Academy (2025)  
+- 📜 **Dbt de A a Z** – Indicium Academy (2025)  
+- 📜 **Engenharia de Plataforma** – CESAR School (2024)  
+- 📜 **AWS Cloud Practitioner Essentials** – Estácio (2024)  
+- 📜 **DevOps com Docker e Jenkins** – Senai (2024)  
 
-- Pipelines de Dados
-- ETL/ELT
-- Armazenamento de Dados em Nuvem (AWS)
-- Análise e Processamento de Dados em Grande Escala
-- Entre outras na área de dados...
+---
+
+## 💼 Experiência Profissional  
+### **🚀 Engenheiro de Dados** – Indicium Tecnologia de Dados (11/2024 – 02/2025)  
+- ⚙️ Implantação de governança de dados com Terraform e Azure.  
+- 🖥️ Configuração de clusters no Databricks para processamento.  
+- 🤖 Automação de pipelines de dados no Databricks.  
+
+### **🛠️ Técnico em Informática** – Fundação Manoel da Silva Almeida (06/2023 – 11/2024)  
+- 💻 Manutenção de computadores e rede.  
+- 🗂️ Manipulação de bancos de dados SQL.  
+- 🔧 Administração de sistemas e servidores.  
+
+---
+
+## 🌍 Idiomas  
+- 🇬🇧 Inglês: Intermediário (B1)  
+- 🇪🇸 Espanhol: Intermediário (B1)  
+
+---
+
+## 🎯 Objetivo Profissional  
+📌 **Busco vagas nas áreas de Análise de Dados, Engenharia de Dados e Engenharia de Análises.**  
+✨ Meu objetivo é aplicar minhas habilidades técnicas e estratégicas para entregar valor por meio de soluções inovadoras em tecnologia e dados.
+
+---
+
+## ⚡ Atividades e Interesses  
+- 🤝 Trabalho Voluntário em projetos e startups  
+- 🎮 E-sports  
+- 📖 Estudos em Antropologia e Filosofia  
+- 🎥 Cinéfilo  
+- 🖥️ Estudar tecnologia  
+- 🎵 Música  
+
+---
+
+🌟 **Vamos juntos transformar dados em valor estratégico!**
 
 ## 📫 Entre em contato!
 Estou totalmente disponível para novos desafios, conhecimentos e oportunidades. Estou apto para ingresso imediato e disponível desenvolver novas habilidades.
