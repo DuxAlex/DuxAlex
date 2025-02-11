@@ -17,9 +17,9 @@
 ## 🛠️ Tecnologias e Habilidades  
 ### 📊 **Hard Skills**  
 - 🐍 **Linguagens**: Python, SQL, PySpark  
-- 🛠️ **Ferramentas & Tecnologias**: Pandas, Airflow, Databricks, Docker, Terraform, Power BI, DBT  
+- 🛠️ **Ferramentas & Tecnologias**: Meltano, PySpark, Pandas, Airflow, Databricks, Docker, Terraform, Power BI, DBT  
 - ☁️ **Cloud**: AWS, Azure, Snowflake  
-- 🗄️ **Banco de Dados**: PostgreSQL, Oracle  
+- 🗄️ **Banco de Dados**: PostgreSQL, sqlite, duckdb
 - 🐧 **Sistemas Operacionais**: Linux  
 
 ### 🌟 **Soft Skills**  
