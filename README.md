@@ -1,7 +1,7 @@
 # Olá, Mundo! 👋 Eu sou Alex!
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400"/>
+  <img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400" style="border-radius: 15px;"/>
 </div>
 
 
