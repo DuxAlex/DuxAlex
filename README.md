@@ -1,14 +1,8 @@
 # Olá, Mundo! 👋 Eu sou Alex!
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;"/>
+  <img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
 </div>
-
-<style>
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
 
 # 👨‍💻 Sobre Mim  
 🚀 Sou **Engenheiro de Dados** apaixonado por tecnologia e inovação, com experiência em:  
