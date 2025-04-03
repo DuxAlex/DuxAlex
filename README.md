@@ -17,7 +17,7 @@
 
 ## 🛠️ Tecnologias e Habilidades  
 ### 📊 **Hard Skills**  
-- 🐍 **Linguagens**: Python, Java, SQL
+- 🐍 **Linguagens**: Python, Java, SQL🌟 **Vamos juntos transformar dados em valor estratégico!**
 - 🛠️ **Ferramentas & Tecnologias**: Meltano, PySpark, Pandas, Airflow, Databricks, Docker, Terraform, Power BI, DBT  
 - ☁️ **Cloud**: AWS, Azure, Snowflake  
 - 🗄️ **Banco de Dados**: PostgreSQL, sqlite, duckdb
@@ -85,9 +85,5 @@
 ## 📫 Entre em contato!
 Estou totalmente disponível para novos desafios, conhecimentos e oportunidades. Estou apto para ingresso imediato e disponível desenvolver novas habilidades.
 
-<br>
-<a href="https://www.linkedin.com/in/alexmiqueias/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn de Alex Miqueias" style="width:48px;height:48px;">
-</a>
-
-
+## 🚀 Explore minha jornada  
+[🔗 Acesse meu Linktree](https://linktr.ee/alexsouza01)
