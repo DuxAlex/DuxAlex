@@ -86,4 +86,5 @@
 Estou totalmente disponível para novos desafios, conhecimentos e oportunidades. Estou apto para ingresso imediato e disponível desenvolver novas habilidades.
 
 ## 🚀 Explore minha jornada  
-[🔗 Acesse meu Linktree](https://linktr.ee/alexsouza01)
+## 🚀 Explore minha jornada  
+[![Linktree Badge](https://img.shields.io/badge/Linktree-Click%20Here-green)](https://linktr.ee/alexsouza01)
